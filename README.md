@@ -1,0 +1,2 @@
+# LeNet-Architecture-using-gray-scaled-images-vs-LeNet-Architecture-using-Colored-Images
+-Load two common datasets  -Use any needed pre-processing function to analyze dataset  -Use LeNet-5 to complete the process of classification  -Print LeNet-5 architecture  -Print number of Trainable parameters in each layer  -Print confusion matrix relative to testing samples  -Print precision, recall, f1_score  -Comment on your results
