@@ -63,10 +63,9 @@
 
 10- Print Confusion matrix relative to testing samples.
 
-11- Calculate Precision, Recall.
+11- Calculate Precision, Recall, and f1_score.
 
 ![z5WJHm](https://github.com/sahar-hamdi/LeNet-Architecture-using-gray-scaled-images-vs-LeNet-Architecture-using-Colored-Images/assets/93557883/d8160042-3930-465c-ba37-c65d04ec786a)
-call, and f1_score.
 
 
 
